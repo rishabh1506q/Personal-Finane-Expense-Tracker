@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
+data/finance.db
+data/app.log
+exports/*
+!exports/.gitkeep
